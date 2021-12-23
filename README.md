@@ -9,3 +9,4 @@
   apply，
   点击create artifact（若无则apply后关闭再进入）
   点击artifact 右键available element项目右键put into Output root
+配置tomcat，添加artifact
